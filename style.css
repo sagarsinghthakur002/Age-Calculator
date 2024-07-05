@@ -73,3 +73,9 @@ body {
 .input-box input::-webkit-calendar-picker-indicator {
     cursor: pointer;
 }
+
+#result {
+    margin-top: 20px;
+    color: white;
+    font-size: 17px;
+}
